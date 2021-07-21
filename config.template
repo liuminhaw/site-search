@@ -1,0 +1,15 @@
+{
+    "searches": [
+		{
+			"sheetname": "Spreadsheet sheet name",
+			"content-col": "column contains content",
+			"result-col": "column to output result",
+			"source-link": "website link"
+		}
+	],
+    "Google-Sheet": {
+        "cred": "credential file name",
+        "id": "Spreadsheet id",
+		"start-row": "Starting row of content"
+    }
+}
